@@ -3,6 +3,7 @@ import { JSX } from "preact/jsx-runtime";
 export default function Counter(props: { name: string }) {
   function page(event: JSX.TargetedEvent<HTMLButtonElement, Event>) {
     event.preventDefault();
+    //do some custom logic here prior to submission
     const form = document.getElementById("pageForm") as HTMLFormElement;
     form.submit();
   }
