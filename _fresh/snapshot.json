@@ -1,0 +1,20 @@
+{
+  "build_id": "ad53d549f43e0b3a0d46f10caeeffefac4e0ef19",
+  "files": {
+    "main.js": [
+      "chunk-2GUEMEWN.js",
+      "chunk-FWJUUQIY.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-2GUEMEWN.js",
+      "chunk-FWJUUQIY.js"
+    ],
+    "chunk-2GUEMEWN.js": [],
+    "island-nameisland.js": [
+      "chunk-FWJUUQIY.js"
+    ],
+    "chunk-FWJUUQIY.js": [],
+    "metafile.json": []
+  }
+}
